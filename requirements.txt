@@ -1,0 +1,30 @@
+# Core
+numpy
+scipy
+pandas
+matplotlib
+
+# Audio / MIR
+librosa
+soundfile
+praat-parselmouth
+
+# Symbolic music
+music21
+mido
+
+# Transcription (choose one or both)
+basic-pitch
+torch
+torchaudio
+
+# Timbre transfer / synthesis
+ddsp
+
+# Generation
+transformers
+accelerate
+# Optional: Meta AudioCraft/MusicGen requires specific setup; pin later
+
+# Evaluation
+audioset-subset @ file://localhost/  # placeholder; replace with your FAD ref set path
