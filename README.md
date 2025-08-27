@@ -1,6 +1,6 @@
 # AI-Assisted Modernization of Legacy Game Soundtracks
 
-**Student:** _Your Name_  
+**Student:** Benjamin Tran  
 **Supervisor:** Dr. Fatemeh Jamshidi (Cal Poly Pomona)  
 **Created:** 2025-08-27
 
@@ -41,12 +41,14 @@ pip install -r requirements.txt
 - Keep human-in-the-loop edits documented (for authorship & reproducibility).
 
 ## Milestones
-- **M1:** Transcription+analysis baseline (Week 4)
-- **M2:** Phase A modernization demo (Week 8)
-- **M3:** Evaluation v1 (Week 10)
-- **M4:** Phase B generation demo (Week 12+)
-- **M5:** Final study & write-up (End of term)
+- **M1:** Basic transcription pipeline (MIDI extraction from audio)
+- **M2:** Analysis framework (motif detection, harmonic analysis)
+- **M3:** Re-orchestration system (instrument mapping and arrangement)
+- **M4:** Timbre transfer implementation (DDSP-based neural rendering)
+- **M5:** Generative composition pipeline (style-conditioned music generation)
+- **M6:** Evaluation framework and user studies
+- **M7:** Integration with game audio middleware (FMOD/Wwise)
 
 ## Contacts
 - Supervisor: Dr. Fatemeh Jamshidi
-- Student: Your Name
+- Student: Benjamin Tran
